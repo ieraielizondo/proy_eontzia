@@ -6,7 +6,8 @@
 </head>
 <body>
 	<div class="container">
-		<img class="logo" src="img/logo.png">		
+		<img class="logo" src="img/logo.png">
+				
 	</div>
 </body>
 </html>
